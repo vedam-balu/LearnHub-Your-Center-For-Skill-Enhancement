@@ -1,10 +1,15 @@
 PROJECT NAME::LearnHub: Your Center For Skill Enhancement
 
 Team ID : LTVIP2025TMID57519
+
 Team Size : 4
+
 Team Leader : Venkat Durga Prasad
+
 Team member : V Balu
+
 Team member : Vicky Kumar Kushwaha
+
 Team member : Vidyala Karthik
 
 REPOR FOR PROJECT::
